@@ -35,7 +35,6 @@ Dataset yang digunakan berisi data terkait kondisi dan gejala yang berhubungan d
 * Family History
 * Smoking Family History
 * Stress Immune
-* Pulmonary Disease
 
 Target pada project ini adalah **Pulmonary Disease**, yang menunjukkan apakah seseorang terindikasi atau tidak terindikasi kanker paru-paru.
 
